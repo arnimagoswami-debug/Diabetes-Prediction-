@@ -89,8 +89,9 @@ The model uses the following input parameters:
 - 🚦 Risk level classification (Low / Moderate / High)
 - ⚠️ Identified health risk factors
 - 💡 Personalized health recommendations
-<img width="1901" height="912" alt="Screenshot 2026-02-01 075118" src="https://github.com/user-attachments/assets/cd062230-6b76-461f-af11-ca1ca6a4a077" />
 
+**Example Dashboard Screenshot:**
+![Dashboard Screenshot](https://github.com/user-attachments/assets/cd062230-6b76-461f-af11-ca1ca6a4a077)
 
 ---
 
@@ -107,8 +108,8 @@ Always consult a qualified healthcare professional for medical concerns.
 **Arnima Goswami** | Data Analyst & Machine Learning Enthusiast  
 Skills: Python, ML, Data Visualization, Streamlit, SQL  
 
-- GitHub: (https://github.com/arnimagoswami-debug)
-- LinkedIn: (https://www.linkedin.com/in/arnima-goswami10/)
+- GitHub: [arnimagoswami-debug](https://github.com/arnimagoswami-debug)
+- LinkedIn: [Arnima Goswami](https://www.linkedin.com/in/arnima-goswami10/)
 
 
 
