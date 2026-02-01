@@ -90,7 +90,7 @@ The model uses the following input parameters:
 - ⚠️ Identified health risk factors
 - 💡 Personalized health recommendations
 
-**Example Dashboard Screenshot:**
+** Dashboard Screenshot:**
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/cd062230-6b76-461f-af11-ca1ca6a4a077)
 
 ---
